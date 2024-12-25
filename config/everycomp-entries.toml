@@ -1,0 +1,187 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.blue_skies]
+			crystallized = true
+			bluebright = true
+			starlit = true
+			frostbright = true
+			lunar = true
+			dusk = true
+			maple = true
+			comet = true
+
+		[types.wood_type.forestry]
+			larch = true
+			teak = true
+			acacia_desert = true
+			lime = true
+			chestnut = true
+			wenge = true
+			baobab = true
+			sequoia = true
+			kapok = true
+			ebony = true
+			mahogany = true
+			balsa = true
+			willow = true
+			walnut = true
+			greenheart = true
+			hill_cherry = true
+			mahoe = true
+			poplar = true
+			palm = true
+			papaya = true
+			pine = true
+			plum = true
+			maple = true
+			citrus = true
+			giganteum = true
+			ipe = true
+			padauk = true
+			cocobolo = true
+			zebrawood = true
+			larch_fireproof = true
+			teak_fireproof = true
+			acacia_desert_fireproof = true
+			lime_fireproof = true
+			chestnut_fireproof = true
+			wenge_fireproof = true
+			baobab_fireproof = true
+			sequoia_fireproof = true
+			kapok_fireproof = true
+			ebony_fireproof = true
+			mahogany_fireproof = true
+			balsa_fireproof = true
+			willow_fireproof = true
+			walnut_fireproof = true
+			greenheart_fireproof = true
+			hill_cherry_fireproof = true
+			mahoe_fireproof = true
+			poplar_fireproof = true
+			palm_fireproof = true
+			papaya_fireproof = true
+			pine_fireproof = true
+			plum_fireproof = true
+			maple_fireproof = true
+			citrus_fireproof = true
+			giganteum_fireproof = true
+			ipe_fireproof = true
+			padauk_fireproof = true
+			cocobolo_fireproof = true
+			zebrawood_fireproof = true
+			oak_fireproof = true
+			spruce_fireproof = true
+			birch_fireproof = true
+			jungle_fireproof = true
+			acacia_fireproof = true
+			dark_oak_fireproof = true
+			cherry_fireproof = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.blue_skies]
+			crystallized = true
+			crescent_fruit = true
+			bluebright = true
+			starlit = true
+			frostbright = true
+			lunar = true
+			dusk = true
+			maple = true
+			comet = true
+
+		[types.leaves_type.twilightforest]
+			beanstalk = true
+			thorn = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
+		[types.leaves_type.forestry]
+			tree_oak_default = true
+			tree_dark_oak_default = true
+			tree_birch_default = true
+			tree_lime_default = true
+			tree_walnut_default = true
+			tree_chestnut_default = true
+			tree_cherry_default = true
+			tree_hill_cherry_default = true
+			tree_lemon_default = true
+			tree_plum_default = true
+			tree_maple_default = true
+			tree_spruce_default = true
+			tree_larch_default = true
+			tree_pine_default = true
+			tree_sequoia_default = true
+			tree_giant_sequoia_default = true
+			tree_jungle_default = true
+			tree_teak_default = true
+			tree_ipe_default = true
+			tree_kapok_default = true
+			tree_ebony_default = true
+			tree_zebrawood_default = true
+			tree_mahogany_default = true
+			tree_acacia_default = true
+			tree_desert_acacia_default = true
+			tree_padauk_default = true
+			tree_balsa_default = true
+			tree_cocobolo_default = true
+			tree_wenge_default = true
+			tree_baobab_default = true
+			tree_mahoe_default = true
+			tree_willow_default = true
+			tree_sipiri_default = true
+			tree_papaya_default = true
+			tree_date_default = true
+			tree_poplar_default = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.storagedrawers]
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			trim = true
+			half_drawers_2 = true
+			full_drawers_1 = true
+
+		[entries.wood_type.twilightforest]
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+			banister = true
+			hollow_log_climbable = true
+
