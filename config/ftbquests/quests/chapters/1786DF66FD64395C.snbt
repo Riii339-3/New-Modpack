@@ -30,6 +30,7 @@
 		]
 		icon: "minecraft:grass_block"
 		id: "34D7F7A5B99DB0E4"
+		size: 3.0d
 		subtitle: "『僕らは君(たち)を歓迎するよ』"
 		tasks: [{
 			id: "7C8CDF9B18900D46"
