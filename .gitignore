@@ -17,3 +17,5 @@ patchouli_data.json
 rhino.local.properties
 temp_agent_native.txt
 /kubejs/config/probejs.json
+kubejs/config/probejs.json
+options.txt
