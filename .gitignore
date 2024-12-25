@@ -80,3 +80,4 @@ config/artifacts/common.json5
 config/artifacts/client.json5
 config/ae2/common.json
 config/ae2/client.json
+config/artifacts/client.json5
