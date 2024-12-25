@@ -225,3 +225,5 @@ usercache.json
 usernamecache.json
 config/sophisticatedcore-common.toml
 kubejs/config/probejs.json
+backups/backups.json
+backups/2024-12-26_1-30-0.zip
