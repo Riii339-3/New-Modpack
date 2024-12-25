@@ -1,4 +1,8 @@
 /config/ae2
+/config/alexcaves_biome_generation
+/config/artifacts
+/config/cataclysm
+/config/ExtraQuests
 /mods
 /saves
 /options.txt
@@ -8,3 +12,8 @@
 /shaderpacks
 /defaultconfig
 /logs
+options.txt
+patchouli_data.json
+rhino.local.properties
+temp_agent_native.txt
+/kubejs/config/probejs.json
