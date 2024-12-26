@@ -398,3 +398,9 @@ config/traveloptics/traveloptics-wild_augment.toml
 config/twilightforest-client.toml
 config/twilightforest-common.toml
 config/twilightforestartifacts-common.toml
+defaultconfigs/ftbquests/client-config.snbt
+defaultconfigs/ftblibrary/ftblibrary-client.snbt
+defaultconfigs/ftbchunks/client-config.snbt
+config/illageandspillage-common.toml
+config/illageandspillage-client.toml
+defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt
