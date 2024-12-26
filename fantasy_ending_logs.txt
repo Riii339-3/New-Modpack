@@ -406,3 +406,5 @@ io.redspace.ironsspellbooks.entity.mobs.wizards.alchemist.ApothecaristEntity
 io.redspace.ironsspellbooks.entity.mobs.wizards.cultist.CultistEntity
 com.anthonyhilyard.iceberg.util.EntityCollector$2
 net.minecraft.client.player.RemotePlayer
+net.mehvahdjukaar.moonlight.core.fake_player.FakeLocalPlayer
+net.mehvahdjukaar.moonlight.core.fake_player.FakeGenericPlayer
