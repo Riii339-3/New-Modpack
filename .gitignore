@@ -232,3 +232,6 @@ options.txt
 manifest.json
 modlist.html
 /overrides
+config/ftbquests/quests/chapter_groups.snbt
+config/ftbquests/quests/chapters/36A0DD6D5B98E960.snbt
+config/ftbquests/quests/data.snbt
